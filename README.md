@@ -5,7 +5,6 @@
 ![Language](https://img.shields.io/badge/Language-C-blue.svg)
 ![Course](https://img.shields.io/badge/Course-Cryptography%20%26%20Network%20Security-success)
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
-![License](https://img.shields.io/badge/License-Educational-orange)
 
 ---
 
